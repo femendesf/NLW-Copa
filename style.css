@@ -41,7 +41,7 @@ body{
     background-size: cover;
     */
 
-    background: var(--card-bg-color) var(--bg) no-repeat top center/cover;
+    background: #202024 var(--bg) no-repeat top center/cover;
 }
 
 #app{
