@@ -1,4 +1,4 @@
-# NLW COPA 2022 ⚽ :qatar:
+# NLW COPA 2022 ⚽ 
 
 ## Conteúdo do evento NLW COPA da Rockeatseat
 
